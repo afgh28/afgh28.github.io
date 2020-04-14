@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://afgh28.github.io</id>
     <title>Gridea</title>
-    <updated>2020-04-14T11:12:04.434Z</updated>
+    <updated>2020-04-14T11:16:18.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://afgh28.github.io"/>
     <link rel="self" href="https://afgh28.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://afgh28.github.io/images/avatar.png</logo>
     <icon>https://afgh28.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[欢迎大家来到我的博客]]></title>
+        <id>https://afgh28.github.io/post/huan-ying-da-jia-lai-dao-wo-de-bo-ke/</id>
+        <link href="https://afgh28.github.io/post/huan-ying-da-jia-lai-dao-wo-de-bo-ke/">
+        </link>
+        <updated>2020-04-14T11:12:15.000Z</updated>
+        <content type="html"><![CDATA[<p>本站大概会分享一些二次元资源，以及一些下载工具，网盘，种子搜索引擎，如有不当还请各位多多指教<br>
+我的qq:2894162119<br>
+谷歌邮箱：156384dym123@gmail.com<br>
+欢迎大家联系我</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://afgh28.github.io/post/hello-gridea/</id>
